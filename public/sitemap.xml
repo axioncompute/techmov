@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://techmov.in/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://techmov.in/i-stopped-getting-my-whatsapp-number-banned-heres-the-exact-n8n-setup-that-fixed-it/</loc><lastmod>2026-05-31</lastmod><priority>0.9</priority></url>
+  <url><loc>https://techmov.in/n8n-sub-workflows-explained-the-pattern-that-cut-my-build-time-in-half/</loc><lastmod>2026-05-30</lastmod><priority>0.9</priority></url>
+  <url><loc>https://techmov.in/n8n-google-sheets-when-it-makes-sense-when-it-doesnt-and-what-i-use-instead/</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/n8n-vs-make-after-running-both-for-real-clients-heres-what-i-actually-use/</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/giving-your-n8n-ai-agent-real-memory-a-postgres-backed-pattern-that-actually-survives-restarts/</loc><lastmod>2026-05-27</lastmod><priority>0.9</priority></url>
+  <url><loc>https://techmov.in/the-n8n-code-node-is-more-powerful-than-most-builders-realize-heres-what-i-actually-use-it-for/</loc><lastmod>2026-05-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/n8n-error-handling-that-actually-works-how-i-stopped-losing-data-on-workflow-failures/</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/n8n-self-hosted-vs-n8n-cloud-the-honest-cost-comparison-after-running-both/</loc><lastmod>2026-05-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/using-n8n-with-webhooks-the-only-explanation-beginners-actually-need/</loc><lastmod>2026-05-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/building-a-smart-lead-qualifier-using-n8n-telegram-and-openai/</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/stop-getting-overwhelmed-by-n8n-start-with-these-10-basic-nodes/</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/close-leads-9x-faster-auto-sync-postgres-whatsapp-and-your-crm/</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/i-built-a-custom-whatsapp-crm-for-local-client-leads-in-n8n-and-you-can-too/</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/add-ai-to-your-whatsapp-agent-using-openai-llm-nodes-in-n8n-the-right-way/</loc><lastmod>2026-04-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/master-the-n8n-postgresql-node-complete-guide-setup-using-neon-database/</loc><lastmod>2026-04-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/hardening-your-n8n-instance-security-settings-you-shouldnt-ignore/</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/i-built-an-n8n-workflow-to-fetch-apis-clean-data-automatically-full-guide/</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/run-n8n-on-your-own-vps-free-paid-full-guide/</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/how-to-connect-n8n-with-neon-postgres-step-by-step-for-beginners/</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://techmov.in/build-your-industrial-grade-n8n-whatsapp-lead-agent-beginner-friendly/</loc><lastmod>2026-02-26</lastmod><priority>0.8</priority></url>
+</urlset>
